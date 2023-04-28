@@ -1,0 +1,7 @@
+.vs/*
+ImageViewer/x64/*
+*.o
+*.dcm
+*.exe
+*.ilk
+*.pdb
